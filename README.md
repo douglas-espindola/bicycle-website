@@ -2,9 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido como parte do meu aprendizado em front-end na plataforma Origamid. O objetivo é aprimorar minhas habilidades em HTML, CSS e JavaScript, começando do básico e progredindo para técnicas mais avançadas.
-
-O site é dedicado ao universo das bicicletas e abrange diversos tópicos relacionados a esse tema, como dicas de manutenção, guias de compra e notícias do mundo do ciclismo.
+Este projeto foi desenvolvido como parte do meu aprendizado em front-end na plataforma [Origamid](https://www.origamid.com/). O objetivo é aprimorar minhas habilidades em HTML, CSS e JavaScript, começando do básico e progredindo para técnicas mais avançadas.
 
 ## Como Visualizar o Site
 
@@ -32,7 +30,7 @@ Gostaria de agradecer à Origamid por fornecer um ambiente de aprendizado tão e
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-- [Douglas Espíndola] - douglasbrito@gmail.com
+- [Douglas Espíndola] - douglasbrito15@gmail.com
 
 Obrigado por conferir o projeto!
 
